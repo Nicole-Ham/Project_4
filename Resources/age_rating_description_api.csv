@@ -1,0 +1,501 @@
+id,category,description
+47,21,Strong Language
+20,21,Strong Language
+50,21,Strong Language
+35,3,Blood
+39,21,Strong Language
+43,29,Violence
+55,3,Blood
+37,29,Violence
+25,29,Violence
+48,3,Blood
+11,21,Strong Language
+41,3,Blood
+53,11,Language
+57,18,Sexual Themes
+51,29,Violence
+45,10,Intense Violence
+44,3,Blood
+46,17,Sexual Content
+40,29,Violence
+42,21,Strong Language
+4,3,Blood
+12,27,Use of Drugs
+9,10,Intense Violence
+23,21,Strong Language
+246,24,Suggestive Themes
+22,10,Intense Violence
+38,3,Blood
+30,21,Strong Language
+306,6,Comic Mischief
+8,4,Blood and Gore
+26,3,Blood
+36,21,Strong Language
+29,15,Partial Nudity
+24,3,Blood
+18,4,Blood and Gore
+19,10,Intense Violence
+10,18,Sexual Themes
+17,21,Strong Language
+15,4,Blood and Gore
+16,10,Intense Violence
+251,4,Blood and Gore
+247,32,Mild Language
+248,33,Mild Violence
+245,6,Comic Mischief
+250,29,Violence
+243,26,Use of Alcohol
+239,18,Sexual Themes
+240,21,Strong Language
+242,7,Crude Humor
+237,8,Drug Reference
+317,4,Blood and Gore
+320,4,Blood and Gore
+313,21,Strong Language
+319,21,Strong Language
+312,33,Mild Violence
+318,10,Intense Violence
+315,10,Intense Violence
+314,4,Blood and Gore
+311,33,Mild Violence
+309,24,Suggestive Themes
+305,29,Violence
+307,3,Blood
+301,21,Strong Language
+303,29,Violence
+300,3,Blood
+297,17,Sexual Content
+289,18,Sexual Themes
+295,4,Blood and Gore
+294,32,Mild Language
+293,29,Violence
+298,21,Strong Language
+287,10,Intense Violence
+288,11,Language
+285,32,Mild Language
+283,26,Use of Alcohol
+284,29,Violence
+290,26,Use of Alcohol
+275,4,Blood and Gore
+281,7,Crude Humor
+278,21,Strong Language
+273,10,Intense Violence
+276,10,Intense Violence
+272,8,Drug Reference
+269,10,Intense Violence
+270,21,Strong Language
+267,17,Sexual Content
+266,14,Nudity
+265,10,Intense Violence
+259,4,Blood and Gore
+260,29,Violence
+257,32,Mild Language
+261,4,Blood and Gore
+255,6,Comic Mischief
+254,29,Violence
+253,26,Use of Alcohol
+252,7,Crude Humor
+277,14,Nudity
+304,3,Blood
+296,10,Intense Violence
+302,24,Suggestive Themes
+258,33,Mild Violence
+286,4,Blood and Gore
+27,29,Violence
+463,3,Blood
+461,3,Blood
+464,29,Violence
+456,9,Fantasy Violence
+453,31,Animated Violence
+458,17,Sexual Content
+460,33,Mild Violence
+447,21,Strong Language
+446,15,Partial Nudity
+449,34,Use of Drugs and Alcohol
+451,29,Violence
+441,4,Blood and Gore
+436,10,Intense Violence
+437,21,Strong Language
+455,4,Blood and Gore
+431,29,Violence
+433,11,Language
+454,3,Blood
+434,20,Simulated Gambling
+435,4,Blood and Gore
+445,10,Intense Violence
+432,9,Fantasy Violence
+429,29,Violence
+426,10,Intense Violence
+427,21,Strong Language
+421,29,Violence
+425,8,Drug Reference
+424,3,Blood
+423,36,Mild Suggestive Themes
+416,29,Violence
+415,21,Strong Language
+419,1,Alcohol Reference
+417,32,Mild Language
+409,18,Sexual Themes
+411,32,Mild Language
+412,1,Alcohol Reference
+413,4,Blood and Gore
+408,40,Realistic Violence
+405,33,Mild Violence
+404,37,Mild Cartoon Violence
+398,3,Blood
+390,32,Mild Language
+394,32,Mild Language
+395,3,Blood
+393,29,Violence
+389,29,Violence
+402,36,Mild Suggestive Themes
+385,21,Strong Language
+401,35,Drug and Alcohol Reference
+388,3,Blood
+391,4,Blood and Gore
+397,21,Strong Language
+382,3,Blood
+386,29,Violence
+392,29,Violence
+399,11,Language
+381,29,Violence
+380,21,Strong Language
+377,3,Blood
+375,3,Blood
+376,29,Violence
+373,10,Intense Violence
+371,31,Animated Violence
+370,11,Language
+374,11,Language
+378,8,Drug Reference
+360,9,Fantasy Violence
+362,4,Blood and Gore
+364,9,Fantasy Violence
+367,32,Mild Language
+357,10,Intense Violence
+363,29,Violence
+359,33,Mild Violence
+361,33,Mild Violence
+355,17,Sexual Content
+354,15,Partial Nudity
+352,10,Intense Violence
+351,3,Blood
+346,3,Blood
+339,28,Use of Tobacco
+343,24,Suggestive Themes
+341,32,Mild Language
+338,24,Suggestive Themes
+466,29,Violence
+465,3,Blood
+330,21,Strong Language
+333,18,Sexual Themes
+332,10,Intense Violence
+329,17,Sexual Content
+331,4,Blood and Gore
+334,21,Strong Language
+328,10,Intense Violence
+327,8,Drug Reference
+326,3,Blood
+325,29,Violence
+324,11,Language
+323,2,Animated Blood
+322,21,Strong Language
+321,10,Intense Violence
+450,31,Animated Violence
+452,9,Fantasy Violence
+410,29,Violence
+337,3,Blood
+444,4,Blood and Gore
+366,29,Violence
+442,10,Intense Violence
+422,32,Mild Language
+440,21,Strong Language
+610,33,Mild Violence
+611,4,Blood and Gore
+613,29,Violence
+614,3,Blood
+597,17,Sexual Content
+598,21,Strong Language
+608,38,Mild Blood
+596,15,Partial Nudity
+592,3,Blood
+594,8,Drug Reference
+595,10,Intense Violence
+593,7,Crude Humor
+590,4,Blood and Gore
+606,29,Violence
+585,37,Mild Cartoon Violence
+587,37,Mild Cartoon Violence
+584,29,Violence
+580,9,Fantasy Violence
+583,24,Suggestive Themes
+578,2,Animated Blood
+577,7,Crude Humor
+579,6,Comic Mischief
+576,5,Cartoon Violence
+574,37,Mild Cartoon Violence
+571,2,Animated Blood
+573,37,Mild Cartoon Violence
+568,29,Violence
+570,36,Mild Suggestive Themes
+563,4,Blood and Gore
+562,21,Strong Language
+555,9,Fantasy Violence
+565,4,Blood and Gore
+561,18,Sexual Themes
+569,32,Mild Language
+567,21,Strong Language
+553,3,Blood
+557,37,Mild Cartoon Violence
+554,7,Crude Humor
+552,29,Violence
+547,24,Suggestive Themes
+543,24,Suggestive Themes
+551,26,Use of Alcohol
+542,11,Language
+549,6,Comic Mischief
+536,5,Cartoon Violence
+540,5,Cartoon Violence
+534,29,Violence
+532,32,Mild Language
+531,29,Violence
+533,11,Language
+541,3,Blood
+535,36,Mild Suggestive Themes
+550,3,Blood
+527,33,Mild Violence
+526,6,Comic Mischief
+521,3,Blood
+524,21,Strong Language
+520,33,Mild Violence
+517,17,Sexual Content
+518,21,Strong Language
+513,29,Violence
+512,28,Use of Tobacco
+514,32,Mild Language
+515,3,Blood
+519,29,Violence
+491,5,Cartoon Violence
+525,29,Violence
+488,33,Mild Violence
+486,7,Crude Humor
+482,5,Cartoon Violence
+487,2,Animated Blood
+479,6,Comic Mischief
+478,2,Animated Blood
+483,7,Crude Humor
+485,5,Cartoon Violence
+471,2,Animated Blood
+473,37,Mild Cartoon Violence
+474,3,Blood
+470,6,Comic Mischief
+472,32,Mild Language
+467,6,Comic Mischief
+469,7,Crude Humor
+604,11,Language
+605,14,Nudity
+603,4,Blood and Gore
+599,6,Comic Mischief
+601,37,Mild Cartoon Violence
+602,31,Animated Violence
+528,7,Crude Humor
+490,5,Cartoon Violence
+477,24,Suggestive Themes
+559,7,Crude Humor
+537,6,Comic Mischief
+572,9,Fantasy Violence
+511,24,Suggestive Themes
+508,31,Animated Violence
+510,3,Blood
+507,9,Fantasy Violence
+505,6,Comic Mischief
+502,7,Crude Humor
+496,6,Comic Mischief
+495,37,Mild Cartoon Violence
+494,37,Mild Cartoon Violence
+500,29,Violence
+501,5,Cartoon Violence
+504,5,Cartoon Violence
+492,7,Crude Humor
+733,10,Intense Violence
+736,21,Strong Language
+735,4,Blood and Gore
+731,32,Mild Language
+726,8,Drug Reference
+724,33,Mild Violence
+723,29,Violence
+729,3,Blood
+725,4,Blood and Gore
+728,21,Strong Language
+722,24,Suggestive Themes
+720,15,Partial Nudity
+721,21,Strong Language
+718,29,Violence
+715,29,Violence
+717,21,Strong Language
+712,29,Violence
+716,4,Blood and Gore
+709,3,Blood
+711,21,Strong Language
+714,21,Strong Language
+707,15,Partial Nudity
+705,4,Blood and Gore
+706,10,Intense Violence
+704,18,Sexual Themes
+702,11,Language
+693,29,Violence
+696,11,Language
+700,4,Blood and Gore
+683,33,Mild Violence
+698,26,Use of Alcohol
+694,29,Violence
+686,32,Mild Language
+687,4,Blood and Gore
+695,4,Blood and Gore
+701,10,Intense Violence
+682,32,Mild Language
+685,29,Violence
+681,8,Drug Reference
+680,28,Use of Tobacco
+677,18,Sexual Themes
+673,37,Mild Cartoon Violence
+670,6,Comic Mischief
+679,26,Use of Alcohol
+678,21,Strong Language
+671,26,Use of Alcohol
+668,32,Mild Language
+666,10,Intense Violence
+663,32,Mild Language
+667,24,Suggestive Themes
+664,38,Mild Blood
+660,3,Blood
+654,4,Blood and Gore
+648,2,Animated Blood
+651,2,Animated Blood
+655,8,Drug Reference
+652,29,Violence
+658,18,Sexual Themes
+650,32,Mild Language
+656,10,Intense Violence
+659,21,Strong Language
+643,31,Animated Violence
+635,3,Blood
+642,6,Comic Mischief
+641,10,Intense Violence
+630,27,Use of Drugs
+640,4,Blood and Gore
+632,4,Blood and Gore
+634,21,Strong Language
+629,21,Strong Language
+636,29,Violence
+626,29,Violence
+627,3,Blood
+623,8,Drug Reference
+624,29,Violence
+615,11,Language
+621,27,Use of Drugs
+618,4,Blood and Gore
+619,10,Intense Violence
+622,3,Blood
+617,6,Comic Mischief
+620,21,Strong Language
+616,29,Violence
+760,3,Blood
+761,8,Drug Reference
+758,3,Blood
+759,29,Violence
+757,29,Violence
+756,11,Language
+752,29,Violence
+754,29,Violence
+743,10,Intense Violence
+749,26,Use of Alcohol
+751,3,Blood
+745,21,Strong Language
+744,18,Sexual Themes
+738,4,Blood and Gore
+625,4,Blood and Gore
+747,7,Crude Humor
+672,32,Mild Language
+753,32,Mild Language
+750,29,Violence
+708,21,Strong Language
+688,10,Intense Violence
+691,11,Language
+676,10,Intense Violence
+653,29,Violence
+633,10,Intense Violence
+1962,29,Violence
+2962,29,Violence
+5962,53,Fear
+960,7,Crude Humor
+1960,21,Strong Language
+955,9,Fantasy Violence
+962,37,Mild Cartoon Violence
+1957,3,Blood
+1951,38,Mild Blood
+4962,21,Strong Language
+3962,26,Use of Alcohol
+956,11,Language
+2961,4,Blood and Gore
+951,31,Animated Violence
+3951,8,Drug Reference
+2952,6,Comic Mischief
+3953,32,Mild Language
+4957,24,Suggestive Themes
+2951,33,Mild Violence
+7962,55,Bad Language
+1958,10,Intense Violence
+958,6,Comic Mischief
+5961,50,Violence
+1959,17,Sexual Content
+3952,29,Violence
+959,5,Cartoon Violence
+3955,5,Cartoon Violence
+5955,31,Animated Violence
+7951,50,Violence
+5951,54,Discrimination
+10960,50,Violence
+6960,50,Violence
+2957,21,Strong Language
+10951,29,Violence
+4952,4,Blood and Gore
+8951,17,Sexual Content
+1954,17,Sexual Content
+4958,28,Use of Tobacco
+5959,44,Mild Sexual Themes
+3958,36,Mild Suggestive Themes
+6955,18,Sexual Themes
+2958,24,Suggestive Themes
+3959,3,Blood
+7959,11,Language
+5956,33,Mild Violence
+6962,29,Violence
+9962,5,Cartoon Violence
+952,31,Animated Violence
+954,3,Blood
+12962,55,Bad Language
+825,29,Violence
+821,15,Partial Nudity
+824,26,Use of Alcohol
+820,3,Blood
+818,21,Strong Language
+815,21,Strong Language
+816,9,Fantasy Violence
+814,13,Mature Humor
+803,24,Suggestive Themes
+804,33,Mild Violence
+806,5,Cartoon Violence
+810,29,Violence
+805,9,Fantasy Violence
+809,21,Strong Language
+807,4,Blood and Gore
+801,13,Mature Humor
+798,33,Mild Violence
+795,2,Animated Blood
+796,29,Violence
+794,29,Violence
+793,18,Sexual Themes
+792,11,Language
+790,27,Use of Drugs
+791,3,Blood
