@@ -93,7 +93,6 @@ id,name
 14,Mac
 306,Satellaview
 32,Sega Saturn
-34,Android
 15,Commodore C64/128/MAX
 66,Atari 5200
 67,Intellivision
@@ -199,3 +198,4 @@ id,name
 471,Meta Quest 3
 16,Amiga
 47,Virtual Console
+34,Android
