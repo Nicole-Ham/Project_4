@@ -73,18 +73,17 @@ id,name
 8805,Hidden Memory
 4846,Chart Wars
 8851,Yudashi Peril
-2229,Battle Fantasia
 5989,Bellini - den tossede troldmand
 2285,Darwinia
 3435,Keyboardmania
 7813,Project 575
 9064,SCHOOL DAYS
+2229,Battle Fantasia
 7610,QP Shooting
 6905,Dark Eyes
 6944,Gateway
 3936,ESPN
 7139,F-1 Hero
-1489,Senran Kagura
 7831,I Wanna Be The Guy
 7702,Trivial Pursuit Live!
 4867,PGA Tour Golf
@@ -143,7 +142,6 @@ id,name
 8132,Team Xtreme
 7131,Secret Game
 7981,Great Adventures by Fisher-Price
-8341,Disk NG
 5154,Dragon Buster
 7193,Zafehouse Diaries
 8517,Super Mario: Fushigi no Korokoro Party
@@ -157,6 +155,7 @@ id,name
 763,Samurai Warriors
 7121,Soccer Manager
 2286,Nanostray
+8341,Disk NG
 1895,Ni no Kuni
 8478,Ooh and Aah
 2461,B.C.
@@ -377,7 +376,6 @@ id,name
 8342,Namco History
 2927,Star Wars: Rebel Assault
 944,RoboCop
-625,FlatOut
 2218,Dance Central
 1101,Near Orbit Vanguard Alliance
 1280,Xenus
@@ -392,6 +390,7 @@ id,name
 4453,Rent A Hero
 2333,Witch & Hero
 8403,Ochaken no Heya
+625,FlatOut
 7978,Chousoku Shoujo
 8451,Crysmalia
 8519,Fengse Huanxiang
@@ -499,3 +498,4 @@ id,name
 3639,Pingu
 4836,Metris
 78,Syndicate
+3042,Gear Stadium

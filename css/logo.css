@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+#top-section {
+    height: 70vh;
+    background-image: url("../Resources/HPpixi.png");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#top-section h1 {
+    margin: 0;
+}
+
