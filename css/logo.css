@@ -1,0 +1,12 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+.jumbotron {
+    /* max-height: 40vh;
+    overflow: hidden;
+    background-image: url('../Resources/HPpixi.png');
+     background-size: cover;
+    background-position: center; */
+}
