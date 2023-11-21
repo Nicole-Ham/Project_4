@@ -1,0 +1,7 @@
+.jumbotron {
+    max-height: 40vh;
+    overflow: hidden;
+    background-image: url('../Resources/FBstyle.jpg');
+     background-size: cover;
+    background-position: center;
+}
