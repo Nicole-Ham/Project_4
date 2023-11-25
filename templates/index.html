@@ -1,0 +1,83 @@
+{% extends 'partials/layout.html' %} {% block title %}Recipes - My Recipes{% endblock %} {% block content %}
+<!-- Your recipe content goes here -->
+<header>
+  <!-- You can add navigation links, logo, or other header content here -->
+</header>
+
+<main class="h-100 bg-dark-gray">
+  <div class="xjumbotron text-center bg-blue mb-5">
+    <!-- No need for the row and column in this case -->
+    <div class="wrapp-img">
+      <img src="./static/Resources/HPpixi.png" alt="" srcset="" class="img-responsive" style="width: 800px" />
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <!-- Your content for the first column -->
+        <form action="/">
+          <div class="m-2 flex justify-content-between">
+            <label for="">Game title</label>
+            <input type="text" name="game_title" required list="autofill_games" />
+            <datalist id="autofill_games">
+              <option value="PixiPal">
+                {% if game_title != None %}
+                    {% for title in game_titles%}
+                        <option value="{{title}}">{{title}}</option>
+                    {% endfor %}
+                {% endif %}
+            </datalist>
+          </div>
+          <div class="m-2 flex justify-content-between">
+            <button class="btn btn-outline-primary ms-auto" type="submit">Search</button>
+            <a href="/" class="btn btn-outline-secondary" type="submit">clear</a>
+          </div>
+        </form>
+      </div>
+
+      <div class="prediction-results col-9 row gap-1">
+        <!-- render a list using jinja -->
+        {% if alternative_game_names != None%}
+
+        <h2>No exact match found, try  these alternative searches</h2>
+            {% for game in alternative_game_names %}
+            <a href="/?game_title={{game}}">{{game}}</a>
+            {%endfor%}
+        {% endif %}
+        {% if game_suggestions == None and alternative_game_name == None %}
+            No search provided
+
+        {% elif game_suggestions != None %}
+
+            {% for game in game_suggestions %}
+
+            <div class="card text-dark text-black col-4" style="width: 18rem">
+            <img src="{{game.picture_url}}" class="card-img-top" alt="..." />
+            <div class="card-body">
+                <h5 class="card-title">{{game.title}}</h5>
+                <!-- title,year,developer,price,stores[{name}],rating  -->
+                <p class="card-text">Year: {{game.year}}</p>
+                <p class="card-text">Developer: {{game.developer}}</p>
+                <p class="card-text">Price: {{game.price}}</p>
+                <p class="card-text">
+                    <span>Stores</span>
+                    {% for store in (game.stores if game.stores !=None else [] )%}
+                    <a target='_blank' href='http://google.com/search?q={{game.title}}+{{store.store.name}}'>{{store.store.name}}</a>
+                    {% endfor %}
+                </p>
+ 
+                
+            </div>
+            </div>
+
+            {% endfor %}
+
+        {% endif %}
+
+      </div>
+    </div>
+    <!-- Add more sections, articles, or content as needed -->
+  </div>
+</main>
+{% endblock %}
