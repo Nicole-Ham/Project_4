@@ -43,7 +43,7 @@ def load_computed_data():
         return None
     
     
-def get_similar_game_names(input_game, num_suggestions=3,computed_data=None)->list:
+def get_similar_game_names(input_game, num_suggestions=2,computed_data=None)->list:
     print(f"app.get_similar_game_names input_game: {input_game}")
     # Retrieve precomputed data from the Flask application context
     # computed_data = app.config.get('computed_data')
@@ -99,6 +99,8 @@ def get_game_info(game_title,api_key=os.environ.get('RAWG_API_KEY')):
         'search': game_title,
         'page_size': 1  # Get only one result for simplicity
     }
+    print(f"API Key: {api_key}")
+
 
     try:
         # Make the API request

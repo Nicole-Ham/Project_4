@@ -17,8 +17,6 @@ id,name
 1491,Mc O'River
 1572,Creative Sound Design
 19930,Memoriesin8bit
-558,FASA Studio
-12736,Lunar Ray Games
 1580,Kerner Complex Security
 14239,Self Made Miracle
 18179,16air
@@ -34,6 +32,8 @@ id,name
 22302,M-trix
 36416,方寸游戏
 22304,Elegant Chaos
+12736,Lunar Ray Games
+558,FASA Studio
 16209,SoDigital
 16538,SGS Casting Services
 37808,"TreSensa Technologies, Inc."
@@ -52,7 +52,6 @@ id,name
 30538,Team Weedle
 48934,Italic Games
 2105,Oberon Interactive
-5103,DoubleDutch Games
 24443,Khud0s
 18504,Studio Gier
 30177,d Marie Licea
@@ -74,7 +73,6 @@ id,name
 23801,Rate My Funeral
 13613,Simulated Environment Systems
 19506,Daikoku Corporation
-329,Cavia
 19950,Game Odyssey Ltd
 48929,Rafael Alexandre Cardoso da Silva
 49258,InfluencerApps
@@ -275,7 +273,6 @@ id,name
 25319,"Los Angeles County Museum of Art, Art of the Middel East Library"
 21610,"Yunus Ayyildiz, Ozan Çelik"
 35164,URG Studio
-32698,Tall Story Games
 2226,Floor 84 Studio
 3577,Hog Hill Mill
 2348,Flextronics
@@ -292,7 +289,6 @@ id,name
 31177,Bandai Namco Games Daewon Media (South Korea)
 50623,PCCW Japan
 29843,Sleeping Panda Games
-43218,DarkSun Game
 12223,Over Fence
 12170,Unicow Games AB
 31168,Alando1
@@ -310,6 +306,7 @@ id,name
 25419,Aya
 48926,Caio Ribeiro Chagas
 18880,RMAL
+43218,DarkSun Game
 84,CTO SpA
 4418,Gun.
 19519,Lion Confectionary
@@ -329,7 +326,6 @@ id,name
 25424,Vittorio Romeo
 5251,InsGames
 12610,D2C Games
-50620,Jaleco USA
 49420,XryEcho
 2251,Hydravision Entertainment
 25297,"Chiptune, Inc."
@@ -499,3 +495,7 @@ id,name
 24910,jota-gil
 16961,vt
 24949,Renaissance
+24990,VivaGames
+29418,Harold Studios
+26576,EpicWade123
+33815,PIXEL MINT
