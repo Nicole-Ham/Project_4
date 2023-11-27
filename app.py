@@ -46,7 +46,7 @@ def index():
         return render_template("index.html",game_suggestions=None,alternative_game_names=None)
 
     # get the suggested titles 
-    suggestions_or_alternatives = None if query_title is None else get_similar_game_names(input_game=query_title,computed_data=app.config.get('computed_data'))
+    suggestions_or_alternatives = None if query_title is None else get_similar_game_names(input_game=query_title,saved_computed_model_data=app.config.get('computed_data'))
     # print(f"app.home game_suggestions: {count(suggested_titles)}")
     
     print(f"app.home suggestions_or_alternatives: {suggestions_or_alternatives}")
