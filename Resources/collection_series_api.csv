@@ -6,7 +6,6 @@ id,name
 5204,Shoppe Keep
 3942,Last Half of Darkness
 9088,Crescent Satsujin Jiken
-8078,Touhou Mystia's Izakaya
 7819,Spice and Wolf
 9110,Tesco
 8983,Sui Mario
@@ -38,7 +37,9 @@ id,name
 7852,Elsword
 2325,Challenge Me
 2652,RPG
+8078,Touhou Mystia's Izakaya
 2659,Assassin's Creed Chronicles
+1098,Age of Mythology
 8072,Doraemon no Quiz Boy
 8317,Heart no Kuni no Alice
 4910,Sega Worldwide Soccer
@@ -62,7 +63,7 @@ id,name
 5115,Cadillac
 8745,Lucah
 2905,One Piece Unlimited
-3058,Aria
+573,Lego Harry Potter
 5264,Blok Drop
 6363,Dark Fracture
 2498,Rize of the Summonds
@@ -73,18 +74,18 @@ id,name
 8805,Hidden Memory
 4846,Chart Wars
 8851,Yudashi Peril
-2229,Battle Fantasia
 5989,Bellini - den tossede troldmand
 2285,Darwinia
 3435,Keyboardmania
 7813,Project 575
 9064,SCHOOL DAYS
+2229,Battle Fantasia
+3058,Aria
 7610,QP Shooting
 6905,Dark Eyes
 6944,Gateway
 3936,ESPN
 7139,F-1 Hero
-1489,Senran Kagura
 7831,I Wanna Be The Guy
 7702,Trivial Pursuit Live!
 4867,PGA Tour Golf
@@ -119,6 +120,7 @@ id,name
 3201,Tap Tap Arcade
 8562,Deducto
 2356,Evolve
+226,SoulCalibur
 6087,Flappy Golf
 8699,NHL All-Star Hockey
 7085,Cu-On-Pa
@@ -132,9 +134,10 @@ id,name
 7874,Starry Sky
 9112,The Dark Pictures Anthology: Season Two
 3963,Mythic Wonders
+4144,English Dream
 9027,The Cecil
 9086,SHIFT
-4144,English Dream
+9240,Pope Hentai's Wilford Brimley ROM Hacks
 6447,Senshinkan
 2941,Kaizou Choujin Shubibinman
 4921,Golf Resort Tycoon
@@ -143,7 +146,6 @@ id,name
 8132,Team Xtreme
 7131,Secret Game
 7981,Great Adventures by Fisher-Price
-8341,Disk NG
 5154,Dragon Buster
 7193,Zafehouse Diaries
 8517,Super Mario: Fushigi no Korokoro Party
@@ -154,9 +156,9 @@ id,name
 2422,Preppie!
 7890,Cats are Liquid
 6876,Mystery Places
-763,Samurai Warriors
 7121,Soccer Manager
 2286,Nanostray
+8341,Disk NG
 1895,Ni no Kuni
 8478,Ooh and Aah
 2461,B.C.
@@ -167,17 +169,17 @@ id,name
 5694,Pilot Brothers
 7087,Rollers of the Realm
 8093,Touhou Big Big Battle
-6354,Tom Clancy's Rainbow Six
+4578,Speed Racer
 7915,RoboCop 2D
 7854,Club Penguin: Elite Penguin Force
 5363,Airlines
 1443,Magic: The Gathering
 121,Close Combat
 7724,Tasac
+521,Animal Crossing
 8092,Flyff
 7911,Meine Liebe
 7925,Top Gear Pocket
-4578,Speed Racer
 1724,MySims
 5276,A Tale of Caos
 7371,grisaia phantom trigger
@@ -193,7 +195,7 @@ id,name
 8169,Ro-Kyu-Bu!
 7926,Top Gear Rally
 3405,Umihara Kawase
-521,Animal Crossing
+6354,Tom Clancy's Rainbow Six
 7340,Megaman Sprite Game
 6719,Dungeon Warfare
 8652,Super Robot Taisen: Scramble Commander
@@ -206,6 +208,7 @@ id,name
 9098,Adventure Field
 3005,Le Tour de France
 9087,dungeon hunter 2
+1286,Zero Escape
 7780,Wakfu
 8187,Dragon Quest: Monster Battle Road
 3102,Gundam VS
@@ -233,7 +236,6 @@ id,name
 9115,The Ur-Quan Masters
 628,Dungeon Master
 8427,FAR
-1286,Zero Escape
 7327,Ore No Animism
 3211,Bike Rider DX
 8503,Sift Heads World
@@ -247,7 +249,6 @@ id,name
 4494,Chopper
 3793,Cosmo Police Galivan
 6299,Road Blaster
-675,Spy Hunter
 8450,Aoki Densetsu Shoot!
 7784,Ninja-Kid
 6182,Mario Kart Arcade GP
@@ -274,6 +275,7 @@ id,name
 7459,Xiao Ao Jiang Hu
 9028,welcome to the game
 9168,Disillusion
+662,NFL Street
 7708,Final Fantasy XV
 2130,The Collider
 9029,welcome to the game 2
@@ -288,7 +290,6 @@ id,name
 2490,Framed
 7514,MULEniverse
 4883,RealSports
-2264,Mercenaries
 8449,Super Bonk
 3879,Berks
 2332,Grey Goo
@@ -298,11 +299,10 @@ id,name
 1014,Foreign Legion
 4958,Zombie Smashers X
 4577,Robocalypse
-662,NFL Street
+2264,Mercenaries
 7618,Fishhead
 7916,Sokocat
 1214,Drakensang
-2719,The Crew
 5014,War Wind
 4111,Thoroughbred Breeder
 1135,The Last Ninja
@@ -314,7 +314,7 @@ id,name
 1202,Superfrog
 7306,Urban Champion
 2202,King's Valley
-6191,Harvest Moon (old)
+2719,The Crew
 3570,Love Game's Wai Wai Tennis
 1901,Jerome Lange
 8204,Terramachi
@@ -421,7 +421,6 @@ id,name
 7786,Bomberman Max
 8656,Endless Frontier
 962,Lips
-8869,Mickey Mania
 2200,Parodius
 1158,Over The Hedge
 6059,Kaeru Batake
@@ -432,6 +431,7 @@ id,name
 5561,Hexagon Dungeon
 2513,Tingle
 8729,Atari Flashback
+9213,Castle Wolfenstein
 8323,Konami Game Collection
 2755,Capcom vs. SNK
 1536,18 Wheels of Steel
@@ -475,6 +475,7 @@ id,name
 1137,Pure
 3974,Tottemo Lucky Man
 1678,Midwinter
+8029,Quickie World
 7377,Karlson
 5156,Shadow of Memories
 6711,Celtic Kings
@@ -498,4 +499,3 @@ id,name
 5604,Crypt of the Necrodancer
 3639,Pingu
 4836,Metris
-78,Syndicate

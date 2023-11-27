@@ -7,7 +7,7 @@ from flask_cors import cross_origin
 import json
 import sqlite3 as sq
 import os
-import geopandas as gpd
+# import geopandas as gpd
 import pandas as pd
 import pickle
 from prediction_engine import load_computed_data,get_similar_game_names,get_game_info
