@@ -6,33 +6,7 @@ import requests
 from fuzzywuzzy import process
 
 
-
-def makeFakeGame()->dict:
-    return {
-        "game_title": "Fake Game",
-        "game_id": 1,
-        "game_year": 2021,
-        "game_platform": "Fake Platform",
-        "game_genre": "Fake Genre",
-        "game_developer": "Fake Developer",
-        "game_publisher": "Fake Publisher",
-        "game_publisher_year": 2021,
-        "game_developer_year": 2021,
-        "game_publisher_platform": "Fake Platform",
-        "game_developer_platform": "Fake Platform",
-        "game_developer_genre": "Fake Genre",
-        "game_developer_publisher": "Fake Publisher",
-        "game_developer_publisher_year": 2021,
-        "game_developer_publisher_platform": "Fake Platform",
-        "game_developer_publisher_genre": "Fake Genre",
-        "game_image_url": "https://www.google.com/images/branding/googlelogo",
-        "game_background_url": "https://www.google.com/images/branding/googlelogo",
-    }
-    
-#  return populated prediction list based on query_title
-def getPredictions(query_title)-> list:
-    # make 5 fake games
-    return None if query_title is None else  [makeFakeGame() for i in range(2)]
+ 
 
 def load_computed_data():
     print(f"opening computed_data.pkl file")
@@ -43,20 +17,16 @@ def load_computed_data():
         return None
     
     
-def get_similar_game_names(input_game, num_suggestions=2,computed_data=None)->list:
+# we used the jupyter notebook to create the saved_cmputed_model_data.pkl file which contains our trained model
+# then we used the model inside the flask app to make predictions
+def get_similar_game_names(input_game, num_suggestions=2,saved_computed_model_data=None)->list:
     print(f"app.get_similar_game_names input_game: {input_game}")
-    # Retrieve precomputed data from the Flask application context
-    # computed_data = app.config.get('computed_data')
-    # if not computed_data:
-    #     # If the data is not in the context, load it from the binary file
-    #     computed_data = load_computed_data()
-    #     app.config['computed_data'] = computed_data
-
+    
     # Extract relevant data from computed_data
-    df_ml = computed_data['df_ml']
-    selected_features = computed_data['selected_features']
-    scaler = computed_data['scaler']
-    kmeans = computed_data['kmeans']
+    df_ml = saved_computed_model_data['df_ml']
+    selected_features = saved_computed_model_data['selected_features']
+    scaler = saved_computed_model_data['scaler']
+    kmeans = saved_computed_model_data['kmeans']
     
     input_game_lower = input_game.lower()  # Converts the input to lowercase
 
@@ -131,6 +101,8 @@ def get_game_info(game_title,api_key=os.environ.get('RAWG_API_KEY')):
                 # 'copies_sold': copies_sold,
                 'rating': rating,
                 'picture_url': picture_url,
+                'game_data': game_data,
+                "genres": game_data.get('genres', [{"name":'N/A'}]),
             }
 
             return game_info
