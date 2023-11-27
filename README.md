@@ -1,4 +1,7 @@
-# Project_4
+# Project 4: PixiPal
+
+Created by Adriana Falindo and Nicole Hammack
+Game Recommender powered by machine learning
 
 ![HPpixi](https://github.com/Nicole-Ham/Project_4/assets/134648078/9e1374ec-cbd9-4633-9261-f920f34a9d82)
 
