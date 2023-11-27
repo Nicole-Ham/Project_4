@@ -3,3 +3,5 @@ config.py
 Resources/TwitchZaggleMerged.csv
 
 .env
+
+__pycache__
