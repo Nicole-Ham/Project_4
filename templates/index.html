@@ -69,7 +69,7 @@
                 </p>
                 
                 <p class="card-text game-genres">
-                    <span>Stores</span>
+                    <span>Genres</span>
                     {% for genre in (game.genres )%}
                     <a target='_blank' href='http://google.com/search?q={{genre.name}} games'>{{genre.name}}</a>,
                     {% endfor %}
