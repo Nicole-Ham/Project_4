@@ -1,6 +1,6 @@
 # Project 4: PixiPal
 
-Created by Adriana Falindo and Nicole Hammack
+Created by Adriana Galindo and Nicole Hammack
 
 Video Game Game Recommender powered by machine learning
 
